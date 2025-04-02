@@ -1,4 +1,4 @@
-%%% cellROI v2
+c%%% cellROI v2
 % PURPOSE: Graphical user interface for selecting regions of interest (ROIs) from motion-corrected calcium imaging data.
 % AUTHORS: MJ Siniscalchi & AC Kwan 181105 
 %
